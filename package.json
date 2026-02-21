@@ -1,0 +1,10 @@
+{
+  "name": "monad-starter-vibecode",
+  "private": true,
+  "packageManager": "pnpm@9.0.0",
+  "engines": { "node": ">=18.18.0" },
+  "scripts": {
+    "lint": "echo \"(later)\"",
+    "test": "echo \"(later)\""
+  }
+}
