@@ -24,3 +24,9 @@ broadcast/
 .vscode/*
 !.vscode/extensions.json
 !.vscode/settings.json
+
+# foundry (contracts)
+packages/contracts/out/
+packages/contracts/cache/
+packages/contracts/broadcast/
+packages/contracts/lib/
